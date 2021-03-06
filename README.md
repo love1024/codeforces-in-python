@@ -1,2 +1,2 @@
-# codeforces solutions
+# Codeforces journey
 Codeforces problemset's solutions with explanations
