@@ -1,2 +1,2 @@
-# codeforces-in-python
-Codeforces problemset's solutions in python with explanations
+# codeforces solutions
+Codeforces problemset's solutions with explanations
